@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Button from 'components/Button'
-import NumberFormat from 'utils/NumberFormat';
+import NumberFormat from 'utils/NumberFormat.js';
 
 import ImageHero from 'assets/images/img-hero.jpg'
 import ImageHeroFrame from 'assets/images/img-hero-frame.jpg'
